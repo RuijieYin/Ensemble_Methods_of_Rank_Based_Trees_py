@@ -31,9 +31,10 @@ Ruijie Yin (ruijieyin428@gmail.com)
 
 
 ## Version History
-
-
 * 0.1.1
+    * Added functions for Recursive Feature Addition,  Recursive Feature Elimination.
+
+* 0.1.0
     * Initial Release
 
 ## License
