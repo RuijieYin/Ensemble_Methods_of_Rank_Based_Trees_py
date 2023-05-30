@@ -2,14 +2,10 @@ Metadata-Version: 2.1
 Name: EnsembleRankTrees
 Version: 0.1.1
 Summary: A Python package for Ensemble Methods of Rank-Based Trees
-Home-page: UNKNOWN
 Author: Ruijie Yin
 Author-email: <ruijieyin428@gmail.com>
-License: UNKNOWN
 Keywords: python,ensemble,rank-based
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.9.1
 Classifier: Operating System :: OS Independent
 
 This package contains several essential functions to implement Ensemble Methods of Rank-Based Trees in Python
-
