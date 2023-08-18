@@ -1,4 +1,5 @@
 # Python package for implementing ensemble methods of rank-based trees
+* Available on PyPI.org: https://pypi.org/project/ranktreeEnsemble/
 * The R version of this package is also available at R CRAN: https://CRAN.R-project.org/package=ranktreeEnsemble
 
 ## Authors
@@ -55,6 +56,9 @@ model_rfe = rboost_rfe(tnbc.drop(columns=['subtype']).head(100), tnbc["subtype"]
 
 
 ## Version History
+* 0.1.3
+    * Edited the description, and changed the structure of the package. 
+
 * 0.1.2
     * Added functions for forward stepwise feature selection,  backward stepwise feature selection.
 
