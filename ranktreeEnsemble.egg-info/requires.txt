@@ -1,0 +1,5 @@
+pandas
+sklearn
+numpy==1.18.1
+shap-hypetune
+lightgbm
