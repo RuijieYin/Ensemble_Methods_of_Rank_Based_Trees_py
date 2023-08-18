@@ -20,8 +20,9 @@ Min Lu, Ruijie Yin and Steven X. Chen. Ensemble Methods of Rank-Based Trees for 
 
 ### Installation:
 #### In a Python console, type:
+```
 pip install ranktreeEnsemble
-
+```
 
 ### Examples:
 * Build a Random Rank Forest with Variable Importance:
